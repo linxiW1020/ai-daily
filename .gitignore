@@ -1,0 +1,8 @@
+# Windows
+nul
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.log
